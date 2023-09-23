@@ -6,7 +6,7 @@ This is a fork of https://github.com/jimathy/jixel-menu which is a fork of https
 This version adds supporting both ox-inventory and qb-inventory (or derevitives) for menu images
 It also adds 2 new menu parameters:
 
-enableSearch = true  # This will turn on the menu search bar which by default is disabled now
+enableSearch = true  # This will turn on the menu search bar which by default is disabled now\
 image = 'url' # This allows for popup context images to be displayed
 
 Sample Config:
