@@ -10,6 +10,7 @@ enableSearch = true  # This will turn on the menu search bar which by default is
 image = 'url' # This allows for popup context images to be displayed
 
 Sample Config:
+```
 local menu = {
   {
     isDisabled = true,
@@ -25,5 +26,6 @@ local menu = {
   }
 }
 exports['qbx-menu']:OpenMenu(menu)
+```
 
 ![context settings preview](https://i.imgur.com/YTi6AxC.jpg)
